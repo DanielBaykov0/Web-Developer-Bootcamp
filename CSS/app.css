@@ -1,14 +1,15 @@
-h2 {
-  color: teal;
-  background-color: palevioletred;
-}
-
-button {
-  color: magenta;
-  background-color: black;
+h1 {
+  text-align: center;
+  font-weight: 700;
+  text-decoration: orange underline;
+  letter-spacing: 15px;
 }
 
 p {
-  color: olive;
-  background-color: orange;
+  text-align: right;
+  line-height: 2;
+}
+
+a {
+  text-decoration: none;
 }
