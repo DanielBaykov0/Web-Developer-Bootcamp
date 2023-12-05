@@ -3,6 +3,9 @@ h1 {
   font-weight: 700;
   text-decoration: orange underline;
   letter-spacing: 15px;
+  font-size: 60px;
+  /* font-family: Verdana, Futura, Arial; */
+  font-family: fantasy;
 }
 
 p {
