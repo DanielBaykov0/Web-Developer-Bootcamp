@@ -1,0 +1,20 @@
+body {
+  color: olive;
+}
+
+section {
+  color: aqua;
+}
+
+h1 {
+  color: teal;
+}
+
+form {
+  color: greenyellow;
+}
+
+button,
+input {
+  color: inherit;
+}
